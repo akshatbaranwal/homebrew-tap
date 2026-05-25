@@ -1,6 +1,6 @@
 cask "simple-caffeine" do
   version "0.1.0"
-  sha256 "d45bb46ca2f2259eed687d5f57024827e464b23cbabaa23082ba27ed40bb524b"
+  sha256 "35332ec6be9ad5a8a5efc8a84bbf8e54951a3dcbc954faf4f1d1760d873aab0e"
 
   url "https://github.com/akshatbaranwal/simple-caffeine/releases/download/v#{version}/SimpleCaffeine-#{version}.zip"
   name "Simple Caffeine"
